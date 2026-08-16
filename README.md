@@ -1,4 +1,5 @@
- 
+⚠️ Not meant as a permanent fork. I'm just fixing the tiniest problem with https://github.com/TomTork/strapi-geodata who fixes the tiniest problem with https://github.com/red-made/strapi-geodata 
+
 # Strapi GeoData
 
 Strapi GeoData is a plugin that enhances Strapi's functionality by adding latitude, longitude, geohash, and a convenient map.
